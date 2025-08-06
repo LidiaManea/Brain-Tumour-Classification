@@ -7,8 +7,7 @@ This project uses MRI images to automatically classify brain tumors into 4 categ
 4. Pituitary Tumor
 
 The project has 2 phases:
-Phase 1: Build basic model and data pipeline
-Phase 2: Improve model with advanced techniques
+Build basic model and data pipeline and Improve model with advanced techniques
 
 Phase 1
 1. Custom dataset loader
