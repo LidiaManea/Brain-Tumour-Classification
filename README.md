@@ -12,6 +12,7 @@ The project has 2 phases:
 Phase 1: Build basic model and data pipeline
 Phase 2: Improve model with advanced techniques
 
+
 Phase 1
 
 1. Custom dataset loader
